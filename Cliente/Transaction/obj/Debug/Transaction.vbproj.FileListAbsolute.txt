@@ -1,0 +1,87 @@
+C:\Users\marlyn\Documents\F-R_e_t-Z\MyVBproj\Transaction\Transaction\bin\Debug\Transaction.exe
+C:\Users\marlyn\Documents\F-R_e_t-Z\MyVBproj\Transaction\Transaction\bin\Debug\Transaction.pdb
+C:\Users\marlyn\Documents\F-R_e_t-Z\MyVBproj\Transaction\Transaction\bin\Debug\Transaction.xml
+C:\Users\marlyn\Documents\F-R_e_t-Z\MyVBproj\Transaction\Transaction\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\marlyn\Documents\F-R_e_t-Z\MyVBproj\Transaction\Transaction\obj\Debug\Transaction.Form1.resources
+C:\Users\marlyn\Documents\F-R_e_t-Z\MyVBproj\Transaction\Transaction\obj\Debug\Transaction.Resources.resources
+C:\Users\marlyn\Documents\F-R_e_t-Z\MyVBproj\Transaction\Transaction\obj\Debug\Transaction.newaccount.resources
+C:\Users\marlyn\Documents\F-R_e_t-Z\MyVBproj\Transaction\Transaction\obj\Debug\Transaction.vbproj.GenerateResource.Cache
+C:\Users\marlyn\Documents\F-R_e_t-Z\MyVBproj\Transaction\Transaction\obj\Debug\Transaction.exe
+C:\Users\marlyn\Documents\F-R_e_t-Z\MyVBproj\Transaction\Transaction\obj\Debug\Transaction.xml
+C:\Users\marlyn\Documents\F-R_e_t-Z\MyVBproj\Transaction\Transaction\obj\Debug\Transaction.pdb
+C:\Users\marlyn\Documents\F-R_e_t-Z\MyVBproj\Transaction\Transaction\obj\Debug\Transaction.transaction.resources
+C:\Users\marlyn\Documents\F-R_e_t-Z\MyVBproj\Transaction\Transaction\obj\Debug\Transaction.ShowRecordsvb.resources
+C:\Users\Alexponce1991\Desktop\Transaction\Transaction\obj\Debug\Transaction.exe
+C:\Users\Alexponce1991\Desktop\Transaction\Transaction\obj\Debug\Transaction.xml
+C:\Users\Alexponce1991\Desktop\Transaction\Transaction\obj\Debug\Transaction.pdb
+C:\Users\Alexponce1991\Desktop\Transaction\Transaction\bin\Debug\Transaction.exe
+C:\Users\Alexponce1991\Desktop\Transaction\Transaction\bin\Debug\Transaction.pdb
+C:\Users\Alexponce1991\Desktop\Transaction\Transaction\bin\Debug\Transaction.xml
+C:\Users\Alexponce1991\Desktop\Transaction\Transaction\obj\Debug\Transaction.Form1.resources
+C:\Users\Alexponce1991\Desktop\Transaction\Transaction\obj\Debug\Transaction.Resources.resources
+C:\Users\Alexponce1991\Desktop\Transaction\Transaction\obj\Debug\Transaction.newaccount.resources
+C:\Users\Alexponce1991\Desktop\Transaction\Transaction\obj\Debug\Transaction.ShowRecordsvb.resources
+C:\Users\Alexponce1991\Desktop\Transaction\Transaction\obj\Debug\Transaction.transaction.resources
+C:\Users\Alexponce1991\Desktop\Transaction\Transaction\obj\Debug\Transaction.vbproj.GenerateResource.Cache
+C:\Users\Alexponce1991\Desktop\Transaction\Transaction\obj\Debug\Transaction.Login.resources
+D:\Apoyo seguridad\Transaction\Transaction\obj\Debug\Transaction.exe
+D:\Apoyo seguridad\Transaction\Transaction\obj\Debug\Transaction.xml
+D:\Apoyo seguridad\Transaction\Transaction\obj\Debug\Transaction.pdb
+D:\Apoyo seguridad\Transaction\Transaction\bin\Debug\Transaction.exe
+D:\Apoyo seguridad\Transaction\Transaction\bin\Debug\Transaction.pdb
+D:\Apoyo seguridad\Transaction\Transaction\bin\Debug\Transaction.xml
+D:\Apoyo seguridad\Transaction\Transaction\obj\Debug\Transaction.Form1.resources
+D:\Apoyo seguridad\Transaction\Transaction\obj\Debug\Transaction.Login.resources
+D:\Apoyo seguridad\Transaction\Transaction\obj\Debug\Transaction.Resources.resources
+D:\Apoyo seguridad\Transaction\Transaction\obj\Debug\Transaction.newaccount.resources
+D:\Apoyo seguridad\Transaction\Transaction\obj\Debug\Transaction.ShowRecordsvb.resources
+D:\Apoyo seguridad\Transaction\Transaction\obj\Debug\Transaction.transaction.resources
+D:\Apoyo seguridad\Transaction\Transaction\obj\Debug\Transaction.vbproj.GenerateResource.Cache
+D:\Apoyo seguridad\Respaldo Seguridad\Transaction\Transaction\obj\Debug\Transaction.exe
+D:\Apoyo seguridad\Respaldo Seguridad\Transaction\Transaction\obj\Debug\Transaction.xml
+D:\Apoyo seguridad\Respaldo Seguridad\Transaction\Transaction\obj\Debug\Transaction.pdb
+D:\Apoyo seguridad\Respaldo Seguridad\Transaction\Transaction\bin\Debug\Transaction.exe
+D:\Apoyo seguridad\Respaldo Seguridad\Transaction\Transaction\bin\Debug\Transaction.pdb
+D:\Apoyo seguridad\Respaldo Seguridad\Transaction\Transaction\bin\Debug\Transaction.xml
+D:\Apoyo seguridad\Respaldo Seguridad\Transaction\Transaction\obj\Debug\Transaction.Form1.resources
+D:\Apoyo seguridad\Respaldo Seguridad\Transaction\Transaction\obj\Debug\Transaction.Login.resources
+D:\Apoyo seguridad\Respaldo Seguridad\Transaction\Transaction\obj\Debug\Transaction.Resources.resources
+D:\Apoyo seguridad\Respaldo Seguridad\Transaction\Transaction\obj\Debug\Transaction.newaccount.resources
+D:\Apoyo seguridad\Respaldo Seguridad\Transaction\Transaction\obj\Debug\Transaction.ShowRecordsvb.resources
+D:\Apoyo seguridad\Respaldo Seguridad\Transaction\Transaction\obj\Debug\Transaction.transaction.resources
+D:\Apoyo seguridad\Respaldo Seguridad\Transaction\Transaction\obj\Debug\Transaction.vbproj.GenerateResource.Cache
+D:\Apoyo seguridad\Respaldo Seguridad\Cliente\Transaction\obj\Debug\Transaction.exe
+D:\Apoyo seguridad\Respaldo Seguridad\Cliente\Transaction\obj\Debug\Transaction.xml
+D:\Apoyo seguridad\Respaldo Seguridad\Cliente\Transaction\obj\Debug\Transaction.pdb
+D:\Apoyo seguridad\Respaldo Seguridad\Cliente\Transaction\bin\Debug\Transaction.exe
+D:\Apoyo seguridad\Respaldo Seguridad\Cliente\Transaction\bin\Debug\Transaction.pdb
+D:\Apoyo seguridad\Respaldo Seguridad\Cliente\Transaction\bin\Debug\Transaction.xml
+D:\Apoyo seguridad\Respaldo Seguridad\Cliente\Transaction\obj\Debug\Transaction.Login.resources
+D:\Apoyo seguridad\Respaldo Seguridad\Cliente\Transaction\obj\Debug\Transaction.Resources.resources
+D:\Apoyo seguridad\Respaldo Seguridad\Cliente\Transaction\obj\Debug\Transaction.newaccount.resources
+D:\Apoyo seguridad\Respaldo Seguridad\Cliente\Transaction\obj\Debug\Transaction.ShowRecordsvb.resources
+D:\Apoyo seguridad\Respaldo Seguridad\Cliente\Transaction\obj\Debug\Transaction.transaction.resources
+D:\Apoyo seguridad\Respaldo Seguridad\Cliente\Transaction\obj\Debug\Transaction.vbproj.GenerateResource.Cache
+D:\Apoyo seguridad\Respaldo Seguridad\Cliente\Transaction\obj\Debug\Transaction.Retirar.resources
+D:\Apoyo seguridad\Respaldo Seguridad\Cliente\Transaction\obj\Debug\Transaction.Transaccion.resources
+D:\Apoyo seguridad\Respaldo Seguridad\Cliente\Transaction\obj\Debug\Transaction.CambiarPin.resources
+D:\Apoyo seguridad\Respaldo Seguridad\Cliente\Transaction\obj\Debug\Transaction.ConsultaSaldo.resources
+D:\Apoyo seguridad\Respaldo Seguridad\Cliente\Transaction\obj\Debug\Transaction.FormPrincipal.resources
+C:\Users\AL3X\Desktop\Respaldo Seguridad\Cliente\Transaction\obj\Debug\Transaction.exe
+C:\Users\AL3X\Desktop\Respaldo Seguridad\Cliente\Transaction\obj\Debug\Transaction.xml
+C:\Users\AL3X\Desktop\Respaldo Seguridad\Cliente\Transaction\obj\Debug\Transaction.pdb
+C:\Users\AL3X\Desktop\Respaldo Seguridad\Cliente\Transaction\bin\Debug\Transaction.exe
+C:\Users\AL3X\Desktop\Respaldo Seguridad\Cliente\Transaction\bin\Debug\Transaction.pdb
+C:\Users\AL3X\Desktop\Respaldo Seguridad\Cliente\Transaction\bin\Debug\Transaction.xml
+C:\Users\AL3X\Desktop\Respaldo Seguridad\Cliente\Transaction\obj\Debug\Transaction.CambiarPin.resources
+C:\Users\AL3X\Desktop\Respaldo Seguridad\Cliente\Transaction\obj\Debug\Transaction.ConsultaSaldo.resources
+C:\Users\AL3X\Desktop\Respaldo Seguridad\Cliente\Transaction\obj\Debug\Transaction.FormPrincipal.resources
+C:\Users\AL3X\Desktop\Respaldo Seguridad\Cliente\Transaction\obj\Debug\Transaction.Login.resources
+C:\Users\AL3X\Desktop\Respaldo Seguridad\Cliente\Transaction\obj\Debug\Transaction.Resources.resources
+C:\Users\AL3X\Desktop\Respaldo Seguridad\Cliente\Transaction\obj\Debug\Transaction.newaccount.resources
+C:\Users\AL3X\Desktop\Respaldo Seguridad\Cliente\Transaction\obj\Debug\Transaction.Retirar.resources
+C:\Users\AL3X\Desktop\Respaldo Seguridad\Cliente\Transaction\obj\Debug\Transaction.ShowRecordsvb.resources
+C:\Users\AL3X\Desktop\Respaldo Seguridad\Cliente\Transaction\obj\Debug\Transaction.Transaccion.resources
+C:\Users\AL3X\Desktop\Respaldo Seguridad\Cliente\Transaction\obj\Debug\Transaction.transaction.resources
+C:\Users\AL3X\Desktop\Respaldo Seguridad\Cliente\Transaction\obj\Debug\Transaction.vbproj.GenerateResource.Cache
+C:\Users\AL3X\Desktop\Respaldo Seguridad\Cliente\Transaction\obj\Debug\Transaction.TransferenciasD.resources

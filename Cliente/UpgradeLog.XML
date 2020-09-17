@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Transaction">
+</Property><Property Name="Archivo de la solución" Value="C:\Users\Alexponce1991\Desktop\Transaction\Transaction.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="C:\Users\Alexponce1991\Desktop\Transaction\Transaction.suo">
+</Property><Property Name="Date" Value="jueves, 19 de febrero de 2015">
+</Property><Property Name="Time" Value="16:44 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Transaction.sln" Description="La copia C:\Users\Alexponce1991\Desktop\Transaction\Backup\Transaction.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="Transaction.suo" Description="La copia C:\Users\Alexponce1991\Desktop\Transaction\Backup\Transaction.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="Transaction" Source="Transaction\Transaction.vbproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto C:\Users\Alexponce1991\Desktop\Transaction\Backup\Transaction\Transaction.vbproj">
+</Event><Event ErrorLevel="0" Project="Transaction" Source="Transaction\Transaction.vbproj.user" Description="La copia de seguridad C:\Users\Alexponce1991\Desktop\Transaction\Backup\Transaction\Transaction.vbproj.user del archivo se ha creado correctamente">
+</Event><Event ErrorLevel="0" Project="Transaction" Source="Transaction\Form1.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Alexponce1991\Desktop\Transaction\Backup\Transaction\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Transaction" Source="Transaction\Form1.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Alexponce1991\Desktop\Transaction\Backup\Transaction\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Transaction" Source="Transaction\My Project\AssemblyInfo.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Alexponce1991\Desktop\Transaction\Backup\Transaction\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Transaction" Source="Transaction\My Project\Application.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Alexponce1991\Desktop\Transaction\Backup\Transaction\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Transaction" Source="Transaction\My Project\Resources.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Alexponce1991\Desktop\Transaction\Backup\Transaction\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Transaction" Source="Transaction\My Project\Settings.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Alexponce1991\Desktop\Transaction\Backup\Transaction\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Transaction" Source="Transaction\newaccount.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Alexponce1991\Desktop\Transaction\Backup\Transaction\newaccount.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Transaction" Source="Transaction\newaccount.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Alexponce1991\Desktop\Transaction\Backup\Transaction\newaccount.vb">
+</Event><Event ErrorLevel="0" Project="Transaction" Source="Transaction\ShowRecordsvb.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Alexponce1991\Desktop\Transaction\Backup\Transaction\ShowRecordsvb.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Transaction" Source="Transaction\ShowRecordsvb.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Alexponce1991\Desktop\Transaction\Backup\Transaction\ShowRecordsvb.vb">
+</Event><Event ErrorLevel="0" Project="Transaction" Source="Transaction\transaction.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Alexponce1991\Desktop\Transaction\Backup\Transaction\transaction.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Transaction" Source="Transaction\transaction.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Alexponce1991\Desktop\Transaction\Backup\Transaction\transaction.vb">
+</Event><Event ErrorLevel="0" Project="Transaction" Source="Transaction\My Project\Application.myapp" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Alexponce1991\Desktop\Transaction\Backup\Transaction\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Transaction" Source="Transaction\My Project\Settings.settings" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Alexponce1991\Desktop\Transaction\Backup\Transaction\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Transaction" Source="Transaction\Form1.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Alexponce1991\Desktop\Transaction\Backup\Transaction\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Transaction" Source="Transaction\My Project\Resources.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Alexponce1991\Desktop\Transaction\Backup\Transaction\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Transaction" Source="Transaction\newaccount.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Alexponce1991\Desktop\Transaction\Backup\Transaction\newaccount.resx">
+</Event><Event ErrorLevel="0" Project="Transaction" Source="Transaction\ShowRecordsvb.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Alexponce1991\Desktop\Transaction\Backup\Transaction\ShowRecordsvb.resx">
+</Event><Event ErrorLevel="0" Project="Transaction" Source="Transaction\transaction.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Alexponce1991\Desktop\Transaction\Backup\Transaction\transaction.resx">
+</Event><Event ErrorLevel="0" Project="Transaction" Source="Transaction\Transaction.vbproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Transaction" Source="Transaction\Transaction.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Transaction.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="Transaction.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Transaction" Source="Transaction\Transaction.vbproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="Transaction" Source="Transaction\Transaction.vbproj" Description="Las referencias a Microsoft.VisualBasic.PowerPacks.Vs se actualizaron a Microsoft.VisualBasic.PowerPacks.Vs 10.0.">
+</Event></UpgradeLog>

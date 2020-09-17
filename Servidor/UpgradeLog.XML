@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Servidor">
+</Property><Property Name="Archivo de la solución" Value="C:\Users\Alexponce1991\Downloads\ComunicacionSocket\Servidor\Servidor.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="C:\Users\Alexponce1991\Downloads\ComunicacionSocket\Servidor\Servidor.suo">
+</Property><Property Name="Date" Value="jueves, 5 de febrero de 2015">
+</Property><Property Name="Time" Value="13:15 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Servidor.sln" Description="La copia C:\Users\Alexponce1991\Downloads\ComunicacionSocket\Servidor\Backup\Servidor.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="Servidor.suo" Description="La copia C:\Users\Alexponce1991\Downloads\ComunicacionSocket\Servidor\Backup\Servidor.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="Servidor" Source="Servidor\Servidor.vbproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto C:\Users\Alexponce1991\Downloads\ComunicacionSocket\Servidor\Backup\Servidor\Servidor.vbproj">
+</Event><Event ErrorLevel="0" Project="Servidor" Source="Servidor\Servidor.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Alexponce1991\Downloads\ComunicacionSocket\Servidor\Backup\Servidor\Servidor.vb">
+</Event><Event ErrorLevel="0" Project="Servidor" Source="Servidor\Servidor.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Alexponce1991\Downloads\ComunicacionSocket\Servidor\Backup\Servidor\Servidor.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Servidor" Source="Servidor\My Project\AssemblyInfo.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Alexponce1991\Downloads\ComunicacionSocket\Servidor\Backup\Servidor\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Servidor" Source="Servidor\My Project\Application.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Alexponce1991\Downloads\ComunicacionSocket\Servidor\Backup\Servidor\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Servidor" Source="Servidor\My Project\Resources.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Alexponce1991\Downloads\ComunicacionSocket\Servidor\Backup\Servidor\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Servidor" Source="Servidor\My Project\Settings.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Alexponce1991\Downloads\ComunicacionSocket\Servidor\Backup\Servidor\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Servidor" Source="Servidor\WinSockServer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Alexponce1991\Downloads\ComunicacionSocket\Servidor\Backup\Servidor\WinSockServer.vb">
+</Event><Event ErrorLevel="0" Project="Servidor" Source="Servidor\My Project\Application.myapp" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Alexponce1991\Downloads\ComunicacionSocket\Servidor\Backup\Servidor\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Servidor" Source="Servidor\My Project\Settings.settings" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Alexponce1991\Downloads\ComunicacionSocket\Servidor\Backup\Servidor\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Servidor" Source="Servidor\Servidor.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Alexponce1991\Downloads\ComunicacionSocket\Servidor\Backup\Servidor\Servidor.resx">
+</Event><Event ErrorLevel="0" Project="Servidor" Source="Servidor\My Project\Resources.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Alexponce1991\Downloads\ComunicacionSocket\Servidor\Backup\Servidor\My Project\Resources.resx">
+</Event><Event ErrorLevel="1" Project="Servidor" Source="Servidor\Servidor.vbproj" Description="La versión de destino de su proyecto es .NET Framework 2.0 ó 3.0. Si el proyecto utiliza ensamblados que requieren una versión más reciente de .NET Framework, no se podrá compilar. Puede cambiar la versión de .NET Framework haciendo clic en Propiedades en el menú del proyecto y seleccionando una nueva versión en el cuadro desplegable '.NET Framework'. (En Visual Basic, haga clic en el botón 'Opciones avanzadas del compilador...' en la pestaña Compilar).">
+</Event><Event ErrorLevel="0" Project="Servidor" Source="Servidor\Servidor.vbproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Servidor" Source="Servidor\Servidor.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Servidor.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="Servidor.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Servidor" Source="Servidor\Servidor.vbproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

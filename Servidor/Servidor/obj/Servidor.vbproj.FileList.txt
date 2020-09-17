@@ -1,0 +1,10 @@
+bin\Debug\Servidor.exe
+bin\Debug\Servidor.pdb
+bin\Debug\Servidor.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Servidor.Servidor.resources
+obj\Debug\Servidor.Resources.resources
+obj\Debug\Servidor.vbproj.GenerateResource.Cache
+obj\Debug\Servidor.exe
+obj\Debug\Servidor.xml
+obj\Debug\Servidor.pdb

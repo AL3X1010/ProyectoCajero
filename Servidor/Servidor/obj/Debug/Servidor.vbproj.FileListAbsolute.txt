@@ -1,0 +1,38 @@
+C:\Users\Alexponce1991\Downloads\ComunicacionSocket\Servidor\Servidor\obj\Debug\Servidor.exe
+C:\Users\Alexponce1991\Downloads\ComunicacionSocket\Servidor\Servidor\obj\Debug\Servidor.xml
+C:\Users\Alexponce1991\Downloads\ComunicacionSocket\Servidor\Servidor\obj\Debug\Servidor.pdb
+C:\Users\Alexponce1991\Downloads\ComunicacionSocket\Servidor\Servidor\bin\Debug\Servidor.exe
+C:\Users\Alexponce1991\Downloads\ComunicacionSocket\Servidor\Servidor\bin\Debug\Servidor.pdb
+C:\Users\Alexponce1991\Downloads\ComunicacionSocket\Servidor\Servidor\bin\Debug\Servidor.xml
+C:\Users\Alexponce1991\Downloads\ComunicacionSocket\Servidor\Servidor\obj\Debug\Servidor.Servidor.resources
+C:\Users\Alexponce1991\Downloads\ComunicacionSocket\Servidor\Servidor\obj\Debug\Servidor.Resources.resources
+C:\Users\Alexponce1991\Downloads\ComunicacionSocket\Servidor\Servidor\obj\Debug\Servidor.vbproj.GenerateResource.Cache
+D:\Apoyo seguridad\ComunicacionSocket\Servidor\Servidor\obj\Debug\Servidor.exe
+D:\Apoyo seguridad\ComunicacionSocket\Servidor\Servidor\obj\Debug\Servidor.xml
+D:\Apoyo seguridad\ComunicacionSocket\Servidor\Servidor\obj\Debug\Servidor.pdb
+D:\Apoyo seguridad\ComunicacionSocket\Servidor\Servidor\bin\Debug\Servidor.exe
+D:\Apoyo seguridad\ComunicacionSocket\Servidor\Servidor\bin\Debug\Servidor.pdb
+D:\Apoyo seguridad\ComunicacionSocket\Servidor\Servidor\bin\Debug\Servidor.xml
+D:\Apoyo seguridad\ComunicacionSocket\Servidor\Servidor\obj\Debug\Servidor.Servidor.resources
+D:\Apoyo seguridad\ComunicacionSocket\Servidor\Servidor\obj\Debug\Servidor.Resources.resources
+D:\Apoyo seguridad\ComunicacionSocket\Servidor\Servidor\obj\Debug\Servidor.vbproj.GenerateResource.Cache
+D:\Apoyo seguridad\Respaldo Seguridad\Servidor\Servidor\obj\Debug\Servidor.exe
+D:\Apoyo seguridad\Respaldo Seguridad\Servidor\Servidor\obj\Debug\Servidor.xml
+D:\Apoyo seguridad\Respaldo Seguridad\Servidor\Servidor\obj\Debug\Servidor.pdb
+D:\Apoyo seguridad\Respaldo Seguridad\Servidor\Servidor\obj\Debug\Servidor.Servidor.resources
+D:\Apoyo seguridad\Respaldo Seguridad\Servidor\Servidor\obj\Debug\Servidor.Resources.resources
+D:\Apoyo seguridad\Respaldo Seguridad\Servidor\Servidor\obj\Debug\Servidor.vbproj.GenerateResource.Cache
+D:\Apoyo seguridad\Respaldo Seguridad\Servidor\Servidor\bin\Debug\Servidor.exe.config
+D:\Apoyo seguridad\Respaldo Seguridad\Servidor\Servidor\bin\Debug\Servidor.exe
+D:\Apoyo seguridad\Respaldo Seguridad\Servidor\Servidor\bin\Debug\Servidor.pdb
+D:\Apoyo seguridad\Respaldo Seguridad\Servidor\Servidor\bin\Debug\Servidor.xml
+C:\Users\AL3X\Desktop\Respaldo Seguridad\Servidor\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\AL3X\Desktop\Respaldo Seguridad\Servidor\Servidor\obj\Debug\Servidor.exe
+C:\Users\AL3X\Desktop\Respaldo Seguridad\Servidor\Servidor\obj\Debug\Servidor.xml
+C:\Users\AL3X\Desktop\Respaldo Seguridad\Servidor\Servidor\obj\Debug\Servidor.pdb
+C:\Users\AL3X\Desktop\Respaldo Seguridad\Servidor\Servidor\obj\Debug\Servidor.Servidor.resources
+C:\Users\AL3X\Desktop\Respaldo Seguridad\Servidor\Servidor\obj\Debug\Servidor.Resources.resources
+C:\Users\AL3X\Desktop\Respaldo Seguridad\Servidor\Servidor\obj\Debug\Servidor.vbproj.GenerateResource.Cache
+C:\Users\AL3X\Desktop\Respaldo Seguridad\Servidor\Servidor\bin\Debug\Servidor.exe
+C:\Users\AL3X\Desktop\Respaldo Seguridad\Servidor\Servidor\bin\Debug\Servidor.pdb
+C:\Users\AL3X\Desktop\Respaldo Seguridad\Servidor\Servidor\bin\Debug\Servidor.xml
